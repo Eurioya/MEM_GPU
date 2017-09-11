@@ -1,0 +1,8 @@
+R     Recommended by Ian
+MEM   Matrix Element Method
+PHD   Thesis
+CUDA  Nvidia GPU computing system
+ttH   Top pair + Higgs
+ttbb  Top pair + bottom pair
+ATLAS LHC detector
+CMS   LHC detector
